@@ -27,6 +27,6 @@ This library allows you to do mathmatical functions, from area of a circle, to b
 # Usage
 `print("2 + 2 is " + add(2, 2))` which outputs `print("2 + 2 is 4")`
 
-`print("3 to the 4th power is" + exponents(3, 4))` which outputs `print("3 to the 4th power is 81.")
+`print("3 to the 4th power is" + exponents(3, 4))` which outputs `print("3 to the 4th power is 81.")`
 
 
