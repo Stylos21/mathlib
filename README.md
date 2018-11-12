@@ -2,14 +2,6 @@
 This library allows you to do mathmatical functions, from area of a circle, to basic functions, like adding.
 
 # Functions
-`add(a, b)` - Adds two numbers.
-
-`subtract(a, b)` - Subtracts two numbers.
-
-`multiply(a, b)` - Multiply two numbers.
-
-`divide(a, b)` - Divides two numbers.
-
 `square_area(length)` - Finds the area of a square.
 
 `rectangle_area(length, width)` - Finds the area of a rectangle.
